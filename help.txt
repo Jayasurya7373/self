@@ -1,4 +1,4 @@
-This is to help the start of the file:
+This is to help the start of the Git repo and adding README file:
 echo "# <some contents in the readme file>" >>README.md
 git init
 git add README.md
